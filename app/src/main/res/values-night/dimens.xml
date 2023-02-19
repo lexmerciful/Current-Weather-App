@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="progress_bar_text_size">20sp</dimen>
+    <dimen name="progress_bar_layout_size">50dp</dimen>
+    <dimen name="progress_bar_marginEnd">10dp</dimen>
+    <dimen name="main_content_progress_dialog_paddding">10dp</dimen>
+    <dimen name="tv_sunrise_time_margin">10dp</dimen>
+    <dimen name="tv_sunset_time_margin">10dp</dimen>
+    <dimen name="card_view_marginTopBottom">10dp</dimen>
+</resources>

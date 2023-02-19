@@ -2,19 +2,14 @@
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="wrap_content"
     android:layout_height="wrap_content"
+    android:padding="@dimen/main_content_progress_dialog_paddding"
+    android:background="@android:color/transparent"
     android:gravity="center">
 
     <ProgressBar
-        android:layout_marginEnd="10dp"
-        android:layout_width="50dp"
-        android:layout_height="50dp"/>
-
-    <TextView
-        android:layout_gravity="center"
-        android:textSize="20sp"
-        android:text="Please wait..."
-        android:textColor="@color/black"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"/>
+        android:layout_marginEnd="@dimen/progress_bar_marginEnd"
+        android:background="@android:color/transparent"
+        android:layout_width="@dimen/progress_bar_layout_size"
+        android:layout_height="@dimen/progress_bar_layout_size"/>
 
 </LinearLayout>

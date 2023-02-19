@@ -3,8 +3,12 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/JavaPogram/CurrentWeatherApp/app/src/main/res/layout/activity_main.xml" value="0.15443840579710144" />
+        <entry key="..\:/JavaPogram/CurrentWeatherApp/app/src/main/res/drawable/close.xml" value="0.1945" />
+        <entry key="..\:/JavaPogram/CurrentWeatherApp/app/src/main/res/drawable/cloud.xml" value="0.1945" />
+        <entry key="..\:/JavaPogram/CurrentWeatherApp/app/src/main/res/drawable/evening.xml" value="0.1945" />
+        <entry key="..\:/JavaPogram/CurrentWeatherApp/app/src/main/res/layout/activity_main.xml" value="0.25" />
         <entry key="..\:/JavaPogram/CurrentWeatherApp/app/src/main/res/layout/dialog_custom_progress.xml" value="0.16032608695652173" />
+        <entry key="..\:/JavaPogram/CurrentWeatherApp/app/src/main/res/menu/menu_main.xml" value="0.22" />
       </map>
     </option>
   </component>
